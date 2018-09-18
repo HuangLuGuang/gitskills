@@ -1,2 +1,2 @@
 this a test branch file
-master is differ
+create a new branch is quick and simple
